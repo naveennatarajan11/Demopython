@@ -1,0 +1,17 @@
+.banner{
+     background-color: orchid;
+     width: 100%;
+     height: 180px;
+     margin-bottom: 20px;
+     margin-top:20px;
+
+}
+
+.banner-text{
+     margin-top:100px;
+     margin-left:550px;
+     position:absolute;
+     transforms:transform;
+
+
+}
